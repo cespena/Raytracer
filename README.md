@@ -21,4 +21,4 @@ In order to view the image, save the output of the program into a file with the 
 
     ./a.out 128 > output.pgm
 
-Once the output file has been created, open the file with an image viewer. 
+Once the output file has been created, open the file with an image viewer. An output file with a resolution of 1080x1080 has been provided as an example.
